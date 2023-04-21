@@ -1,7 +1,7 @@
 {
     "name": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg",
+    "logo": "https://te.legra.ph/file/16472a6113b4b231236c9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5482561033",
+        "value": "1454188284",
         "required": true
       },
       "STRING_SESSION": {
