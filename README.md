@@ -38,7 +38,7 @@
 ʙᴜɪʟᴅ ʟᴏɢs ᴀɴᴅ ᴄʜᴇᴄᴋ
 build logs!</i>
 
-<p align="center"><a href="https://t.me/Arnavserver"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-yellow?style=for-the-badge&logo=github" width="200""/></a>
+<p align="center"><a href="https://t.me/Dk_profile"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-yellow?style=for-the-badge&logo=github" width="200""/></a>
 </pre>
 
 ## ♨️ ᴏᴋᴛᴇᴛᴏ ᴅᴇᴘʟʟᴏᴍᴇɴᴛ
@@ -60,7 +60,7 @@ build logs!</i>
 </pre>
 
 ### 🧜‍♀️ ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ ✨
-<a href="https://telegram.me/dk_music1"><img src="https://img.shields.io/badge/Join-Group%20Support-indigo.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/dk_music1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/dk_music1"><img src="https://img.shields.io/badge/Join-Group%20Support-indigo.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/education_quiz_hub"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
  • • • •━━༺ᴄʀᴇᴅɪᴛs༻━━ • • •
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-green?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/Xdarnav"> <img src="https://img.shields.io/badge/Arnavsingh-purple?style=for-the-badge&logo=github" alt="Arnavsingh" /> </a>
