@@ -1,5 +1,5 @@
 {
-    "name": "ᴀʀɴᴀᴠ ダ ᴍᴜsɪᴄ",
+    "name": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg",
     "keywords": [
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀᴍᴏᴜʀxᴅ ダ ᴍᴜsɪᴄ",
+        "value": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
         "required": true
       },
       "OWNER_ID": {
