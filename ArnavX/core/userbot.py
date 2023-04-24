@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ilexupdates")
-                await self.one.join_chat("link_copied")
+                await self.one.join_chat("education_quiz_hub")
+                await self.one.join_chat("dk_music1")
             except:
                 pass
             assistants.append(1)
@@ -138,8 +138,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("link_copied")
-                await self.four.join_chat("ilexupdates")
+                await self.four.join_chat("dk_music1")
+                await self.four.join_chat("dk_profile")
             except:
                 pass
             assistants.append(4)
@@ -168,8 +168,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("ilexupdates")
-                await self.five.join_chat("link_copied")
+                await self.five.join_chat("dk_profile")
+                await self.five.join_chat("dk_music1")
             except:
                 pass
             assistants.append(5)
