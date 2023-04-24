@@ -1,13 +1,13 @@
 # ━━━༺𝐃𝐊 𝐌𝐔𝐒𝐈𝐂༻━━━━
 
 • - -  - - - ☆- - - - - •• - - - - - ☆- - - - - •
-🧜‍♀️ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀʀɴᴀᴠ Music ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 💘🥀
+🧜‍♀️ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ 𝚍𝚔 Music ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 💘🥀
 • - - - -- - ☆- - -  - - •• - - - - - ☆- - - - - •
 
 <h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
 
 
-<p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/education_quiz_hub"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
 <p align="center">
     
 
@@ -68,4 +68,4 @@ build logs!</i>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-indigo?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ᴀɴᴅ ᴍʏ Sᴜᴘᴘᴏʀᴛɪɴɢ 🥀🦢 ɢʀᴏᴜᴘ [𖤓 ɪʟᴇx ᴡᴏʀʟᴅ 𖤓](https://t.me/link_copied)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ᴀɴᴅ ᴍʏ Sᴜᴘᴘᴏʀᴛɪɴɢ 🥀🦢 ɢʀᴏᴜᴘ [𖤓 ɪʟᴇx ᴡᴏʀʟᴅ 𖤓](https://t.me/dk_music1)_ </b>
