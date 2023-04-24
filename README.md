@@ -7,21 +7,21 @@
 <h2 align="centre">---- ᴀʀɴᴀᴠ ✘ ᴍᴜsɪᴄ ---- </h2>
 
 
-<p align="center"><a href="https://t.me/education_quiz_hub"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/education_quiz_hub"><img src="https://telegra.ph/file/16472a6113b4b231236c9.jpg" width="300"></a></p>
 <p align="center">
     
 
 <details><summary> <h3><b>Features With Ai !</b></h3> </summary> 
 
-- **Play Music In ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ!** (sᴜᴘᴘᴏʀᴛ ᴍᴜʟᴛɪᴘʟᴇ ɢʀᴏᴜᴘs)
-- **sᴜᴘᴘᴏʀᴛs ǫᴜᴇᴜᴇs!**
-- **ᴄᴏɴᴛʀᴏʟ BY Buttons ᴏʀ ᴄᴏᴍᴍᴀɴᴅs**
-- **sᴇᴀʀᴄʜ ғᴏʀ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏs InʟInᴇ!**
-- **Download ʏᴛ sᴏɴɢs BY ɪᴛs Name!**
-- **Download ʏᴛ ᴠɪᴅᴇᴏs BY ɪᴛs Name!**
-- **seek ᴀɴᴅ sᴇᴇᴋʙᴀᴄᴋ**
-- **LOOP SONGS**
-- **Playlist Fᴇᴀᴛᴜʀᴇ ᴀʟsᴏ ᴀᴠᴀɪʟᴀʙʟᴇ**
+- Play Music In ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ! (sᴜᴘᴘᴏʀᴛ ᴍᴜʟᴛɪᴘʟᴇ ɢʀᴏᴜᴘs)
+- sᴜᴘᴘᴏʀᴛs ǫᴜᴇᴜᴇs!
+- ᴄᴏɴᴛʀᴏʟ BY Buttons ᴏʀ ᴄᴏᴍᴍᴀɴᴅs
+- sᴇᴀʀᴄʜ ғᴏʀ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏs InʟInᴇ!
+- Download ʏᴛ sᴏɴɢs BY ɪᴛs Name!
+- Download ʏᴛ ᴠɪᴅᴇᴏs BY ɪᴛs Name!
+- seek ᴀɴᴅ sᴇᴇᴋʙᴀᴄᴋ
+- LOOP SONGS
+- Playlist Fᴇᴀᴛᴜʀᴇ ᴀʟsᴏ ᴀᴠᴀɪʟᴀʙʟᴇ
 </details>
 <pre>
 <b><i>••DEPLOY TO HEROKU••</i></b>
@@ -68,4 +68,4 @@ build logs!</i>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-indigo?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ᴀɴᴅ ᴍʏ Sᴜᴘᴘᴏʀᴛɪɴɢ 🥀🦢 ɢʀᴏᴜᴘ [𖤓 ɪʟᴇx ᴡᴏʀʟᴅ 𖤓](https://t.me/dk_music1)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/DK143gurjar) ᴀɴᴅ ᴍʏ Sᴜᴘᴘᴏʀᴛɪɴɢ 🥀🦢 ɢʀᴏᴜᴘ [𖤓 ɪʟᴇx ᴡᴏʀʟᴅ 𖤓](https://t.me/dk_music1)_ </b>
